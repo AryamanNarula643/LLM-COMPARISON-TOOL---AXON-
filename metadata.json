@@ -1,0 +1,6 @@
+{
+  "name": "LLM Comparison Tool",
+  "description": "Compare responses from Gemini, GPT, and Claude side-by-side for correctness, tone, and completeness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
